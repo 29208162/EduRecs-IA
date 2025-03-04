@@ -1,2 +1,57 @@
 # EduRecs-IA
 Sistema de recomendación para contenido educativo diverso.
+# EduRecs: Recomendador de contenido educativo diverso
+
+## Resumen
+**EduRecs** es un sistema de recomendación diseñado para promover una mayor diversidad de contenido educativo. En lugar de centrarse únicamente en los contenidos populares, **EduRecs** recomienda una variedad de temas educativos (ciencia, arte, historia, etc.), ayudando a los usuarios a descubrir nuevos campos del conocimiento.
+
+**Construyendo un proyecto de curso de IA**
+
+## Antecedentes
+- **Problema que resolverá**:  
+  Muchas plataformas de streaming y educativas favorecen contenidos populares, lo que limita el acceso a contenidos menos conocidos pero igualmente valiosos.
+  
+- **Frecuencia del problema**:  
+  Este problema es común en plataformas como YouTube, Coursera, edX, entre otras, que priorizan contenidos mainstream.
+
+- **Motivación personal**:  
+  Como apasionado de la educación accesible y diversa, quiero asegurarme de que los usuarios puedan acceder a contenido educativo de todas las disciplinas, no solo los más populares.
+
+- **Por qué es importante**:  
+  Al ampliar el acceso a una mayor variedad de conocimientos, podemos ayudar a los usuarios a crecer intelectualmente y prepararlos para un mundo cada vez más diverso.
+
+## Datos y técnicas de IA
+- **Fuentes de datos**:  
+  Utilizaremos plataformas como **Coursera**, **edX**, y **YouTube** para obtener datos sobre los cursos disponibles y los intereses de los usuarios.
+  
+- **Técnicas de IA utilizadas**:  
+  - **Filtrado colaborativo**: Para recomendar contenido basado en intereses comunes de los usuarios.
+  - **Procesamiento de lenguaje natural (PLN)**: Para analizar la diversidad de temas en los contenidos educativos.
+
+## Cómo se utiliza
+- **Usuarios objetivos**:  
+  Estudiantes, autodidactas, y profesionales que buscan ampliar sus horizontes en diferentes disciplinas.
+  
+- **Contexto de uso**:  
+  El sistema se utilizaría principalmente en plataformas de educación en línea para recomendar contenido adicional y diverso.
+
+- **Beneficiarios**:  
+  Estudiantes que desean explorar nuevas áreas de conocimiento fuera de lo convencional.
+
+## Desafíos
+- **Limitaciones**:  
+  - Dependencia de la calidad de los datos disponibles.
+  - Posibles sesgos en las recomendaciones si no se filtra adecuadamente.
+  
+- **Soluciones**:  
+  - Implementar mecanismos de filtrado de sesgo y promover más contenido educativo de diversas fuentes.
+
+## ¿Y ahora qué?
+- **Expansión**:  
+  A medida que se utilice más, el sistema aprenderá de las interacciones de los usuarios y mejorará las recomendaciones. También puede expandirse para incluir recomendaciones de libros, podcasts, y otros medios educativos.
+
+## Agradecimientos
+- **Código fuente y herramientas utilizadas**:  
+  - **TensorFlow** y **PyTorch** para la creación del modelo de IA.
+  - **spaCy** para el procesamiento de lenguaje natural.
+  - **Datos de Coursera, edX, y YouTube**.
